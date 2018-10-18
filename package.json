@@ -1,6 +1,6 @@
 {
-  "name": "probot-scheduler",
-  "version": "1.2.0",
+  "name": "@bcgov/probot-scheduler",
+  "version": "1.2.1",
   "description": "Probot extension to trigger events on a periodic schedule",
   "main": "index.js",
   "scripts": {
@@ -8,12 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/probot/scheduler.git"
+    "url": "git+https://github.com:bcgov/scheduler.git"
   },
   "keywords": [
     "probot"
   ],
   "author": "Brandon Keepers",
+  "contributors": [{ 
+    "name" : "Anton Kosyakov"
+  }],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/probot/scheduler/issues"
